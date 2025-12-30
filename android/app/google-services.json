@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764312992666",
+    "project_id": "letsstart1-dd309",
+    "storage_bucket": "letsstart1-dd309.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764312992666:android:da2bcafd684ca2642e9823",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDaQB-jwbHgmSkSaok4If_BHWO4q1ME7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
